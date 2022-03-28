@@ -1,0 +1,1 @@
+# vRA-Image-Mappings-update-automation
